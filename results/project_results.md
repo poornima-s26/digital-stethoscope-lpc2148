@@ -59,7 +59,7 @@ OLED successfully displayed:
 
 Final hardware prototype:
 
-![Final Output](result.jpg)
+![Final Output](result.jpeg)
 
 ---
 
