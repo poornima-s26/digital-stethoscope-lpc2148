@@ -6,16 +6,16 @@ This folder contains design diagrams for the Digital Stethoscope project.
 
 ## Block Diagram
 
-(Add image below after upload)
+![Block Diagram](BlockDiagram.png)
 
 ---
 
 ## Interfacing Diagram
 
-(Add image below after upload)
+![Connection Diagram](inter.png)
 
 ---
 
 ## Connection Diagram
 
-(Add image below after upload)
+![Connection Diagram](Connection.png)
