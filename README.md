@@ -4,6 +4,11 @@ ARM7 | LPC2148 | Embedded Systems | Biomedical Instrumentation | Signal Processi
 
 ---
 
+
+## Project Prototype
+
+![Digital Stethoscope Prototype](results/result.jpeg)
+
 ## Project Status
 
 ✅ Completed Academic Embedded Systems Project
